@@ -1,0 +1,12 @@
+
+/* Landing page */
+#loginBtn{margin-right: 15px;}
+#dumbbell{height: 100px; width: 100px;}
+
+/* Dashboard */
+#dashEditPorfileBtn, #dashAddGoalBtn{margin-right: 10px;}
+.fa-arrow-left{margin-right: 10px;}
+.card{border-radius: 2%}
+.card-image, .is-one-third{margin: 15px;}
+
+.fa-check-square{margin-right: 10px;}
